@@ -1,0 +1,27 @@
+[
+    {
+        "judul": "Acer Swift 3",
+        "harga": "12.000.000",
+        "thumbnail": "https://static.digitecgalaxus.ch/Files/3/2/2/2/3/6/4/4/null-H-002.xxl3.jpeg"
+    },
+    {
+        "judul": "Lenovo ThinkBook 15 G2",
+        "harga": "7.000.000",
+        "thumbnail": "https://www.bhphotovideo.com/images/images1500x1500/lenovo_20ve003gus_tb_g2_i5_1135g7_8gb_256gb_windows_10_pro_15_6_1606142.jpg"
+    },
+    {
+        "judul": "HP Pavilion X360",
+        "harga": "8.500.000",
+        "thumbnail": "https://www.bhphotovideo.com/images/images2500x2500/hp_w2l24ua_aba_pavilion_x360_i5_7200u_8gb_1361137.jpg"
+    },
+    {
+        "judul": "Asus Zenbook Pro Duo",
+        "harga": "11.000.000",
+        "thumbnail": "https://th.bing.com/th/id/OIP.JF-FGykCg6rXGff8p2JeSAHaFj?pid=ImgDet&w=4032&h=3024&rs=1"
+    },
+    {
+        "judul": "HP Envy X360",
+        "harga": "10.000.000",
+        "thumbnail": "https://i2.wp.com/www.angela-cruz.com/wp-content/uploads/2018/07/6237349_r1d.jpg"
+    }
+]
